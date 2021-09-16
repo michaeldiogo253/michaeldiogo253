@@ -4,4 +4,5 @@
 - Contatos:  
 celular: 35 999782517 
 e-mail> michaeldiogo17@outlook.com
+linkedin: https://www.linkedin.com/in/michael-diogo-fagundes-a6825a180/
 
